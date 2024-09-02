@@ -1,0 +1,8 @@
+prefix=/home/rakhat123/lab1_git/catkin_ws_ex1/install
+
+Name: my_package
+Description: Description of my_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
