@@ -1,0 +1,2 @@
+turtlebot_controller4
+-DCATKIN_DEVEL_PREFIX=/home/rakhat123/lab1_git/catkin_ws_ex4/devel -DCMAKE_INSTALL_PREFIX=/home/rakhat123/lab1_git/catkin_ws_ex4/install -G Unix Makefiles
