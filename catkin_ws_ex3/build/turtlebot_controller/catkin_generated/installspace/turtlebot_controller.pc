@@ -1,0 +1,8 @@
+prefix=/home/rakhat123/lab1_git/catkin_ws_ex3/install
+
+Name: turtlebot_controller
+Description: Description of turtlebot_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
